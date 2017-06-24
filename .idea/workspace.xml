@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c79e497-0de8-4899-937a-2986d65da379" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/kitty.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/rango.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mydatabase" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/rango.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tango_with_django_project.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/populate_rango.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/migrations/0002_auto_20170526_0132.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/migrations/0003_auto_20170530_2240.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/migrations/0004_auto_20170601_0017.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/migrations/0005_userprofile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/templatetags/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/templatetags/rango_template_tags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rango/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tango_with_django_project/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tango_with_django_project/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tango_with_django_project/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tango_with_django_project/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/add_category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/add_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/category.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/cats.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/rango/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -400,8 +362,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12728249" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
